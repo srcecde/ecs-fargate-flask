@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER chiragr83@gmail.com
+MAINTAINER yarrakondaka@gmail.com
 
 RUN apt-get update -y
 RUN apt-get install python3-pip -y
